@@ -1,0 +1,44 @@
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:87px;
+}
+footer .f2 p{
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0%;
+
+}
+
+footer .f3 p{
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0%;
+
+}
+
+
+footer .f4 p{
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0%;
+
+}
+
+.f_img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+footer .f4{
+    padding-bottom: 120px;
+}
+footer .f5{
+    border-bottom: 1px solid black;
+}
