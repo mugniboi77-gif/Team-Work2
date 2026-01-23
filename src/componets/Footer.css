@@ -3,6 +3,8 @@ footer{
     align-items: center;
     justify-content: center;
     gap:87px;
+    background: rgba(243, 240, 236, 1);
+    margin-top: 136px;
 }
 footer .f2 p{
 font-weight: 400;

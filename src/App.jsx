@@ -1,15 +1,20 @@
-import Navbar from './componets/Navbar'
+import Navbar from "./componets/Navbar";
 import Footer from './componets/Footer'
-import './App.css'
+import Curated from "./componets/Curated";
+import Room from "./Room";
+import Keeping from "./componets/Keeping";
+import "./App.css";
 
 function App() {
-
   return (
     <>
-    <Navbar/>
-    <Footer/>
+      <Navbar />
+      <Curated />
+      <Room />
+      <Keeping />
+      <Footer/>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

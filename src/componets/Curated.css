@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Curated {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 33px;
+  background: rgba(251, 248, 245, 1);
+}
+.curated1 h1 {
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 64px;
+  line-height: 76px;
+  letter-spacing: 0%;
+  font-family: sans-serif;
+  color: #000000;
+  margin-bottom: 18px;
+}
+.curated1 p {
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0%;
+  font-family: sans-serif;
+  color: #000000;
+  margin-bottom: 62px;
+}
+.curated1 button {
+  width: 154px;
+  height: 60px;
+  top: 507px;
+  left: 105px;
+  opacity: 1;
+  border-radius: 30px;
+  border: none;
+  background: #e9672b;
+  color: black;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0%;
+}

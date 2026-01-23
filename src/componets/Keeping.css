@@ -1,0 +1,66 @@
+.Keeping {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 202px;
+}
+.k_p1 {
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: 0%;
+  text-align: center;
+  font-family: sans-serif;
+  color: rgba(0, 0, 0, 1);
+}
+.k_p2 {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: rgba(0, 0, 0, 1);
+  font-family: sans-serif;
+  padding-top: 16px;
+}
+.b1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 126px;
+  gap: 177px;
+}
+.b1_text h3 {
+  font-weight: 400;
+  font-size: 36px;
+  font-family: sans-serif;
+  line-height: 44px;
+  letter-spacing: 0%;
+  color: rgba(0, 0, 0, 1);
+  padding-bottom: 20px;
+}
+.b1 p {
+  font-weight: 400;
+  font-size: 18px;
+  font-family: sans-serif;
+  line-height: 28px;
+  letter-spacing: 0%;
+  color: rgba(0, 0, 0, 1);
+  padding-bottom: 33px;
+}
+.b1 span {
+  font-weight: 400;
+  font-size: 15px;
+  font-family: sans-serif;
+  line-height: 28px;
+  letter-spacing: 0%;
+  color: rgba(233, 103, 43, 1);
+}
+.b1_img {
+  width: 616;
+  height: 411;
+  top: 1558px;
+  left: 664px;
+  opacity: 1;
+}
