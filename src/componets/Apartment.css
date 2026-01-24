@@ -1,0 +1,41 @@
+.apartment{
+    background-color: #F6CFCA;
+}
+.apartment h1{
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 88px;
+    line-height: 100px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 50px;
+}
+.fontfams{
+    display: flex;
+    justify-content: center;
+    gap: 144px;
+    padding-bottom: 80px;
+}
+.girl8{
+    justify-content: center;
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 40px;
+}
+.girl8 p{
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.girl8 button{
+    background-color: #E9672B;
+    padding: 16px 40px;
+    border: none;
+    border-radius: 88px;
+}

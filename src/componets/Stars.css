@@ -1,0 +1,93 @@
+.Starssec{
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+.Starssec h1{
+    text-align: center;
+}
+.stars{
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+.star1{
+    width: 396px;
+    height: 254px;
+    border-radius: 4px;
+    border-width: 2px;
+    border: 2px solid #E9672B;  
+    box-shadow: 8px -8px 0px 0px #CBC6F4;
+
+    
+}
+.star2{
+    width: 396px;
+    height: 254px;
+    border-radius: 4px;
+    border-width: 2px;
+    border: 2px solid #225DCA;
+    box-shadow: 8px -8px 0px 0px #E7CB43;
+
+}
+.star3{
+    width: 396px;
+    height: 254px;
+    border-radius: 4px;
+    border-width: 2px;
+    border: 2px solid #242947;
+    box-shadow: 8px -8px 0px 0px #A2D4C5;
+
+}
+.star1 h3{
+    font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+line-height: 28px;
+letter-spacing: 0%;
+}
+.star1 p{
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+
+}
+.star2 h3{
+    font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+line-height: 28px;
+letter-spacing: 0%;
+}
+.star2 p{
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+
+}.star3 h3{
+    font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+line-height: 28px;
+letter-spacing: 0%;
+}
+.star3 p{
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+
+}
+.padd1{
+    padding: 34px;
+}

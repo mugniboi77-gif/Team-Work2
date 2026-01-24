@@ -1,0 +1,41 @@
+.tablecontainer{
+    background-color: #FBF8F5;
+
+}
+.tablecontainer h1{
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0%;
+    color: #000000;
+    text-align: center;
+
+}
+.tables{
+    display: flex;
+    gap: 4px;
+    justify-content: center;
+}
+.tables1{
+    width: 233px;
+    height: 430px;
+    background-color: #ffffff;
+    text-align: center;
+}
+.tables1 p{
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0%;
+}
+.tables1 p span{
+    color: #E9672B;
+}
+.notbl{
+text-align: center;    
+color: #E9672B;
+}
